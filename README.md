@@ -313,7 +313,6 @@ This project is licensed under the MIT License - see the MIT(LICENSE) file for d
 ## 📞 Contact
 
 For questions or feedback, please open an issue or contact:
-- Email: your.email@example.com
 - GitHub: [@Dulith-Kavinda](https://github.com/Dulith-Kavinda)
 
 ---
