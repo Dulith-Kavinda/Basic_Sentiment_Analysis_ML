@@ -175,17 +175,11 @@ print(f"Sentiment: {sentiment} (Confidence: {confidence:.2%})")
 ## 📁 Project Structure
 
 ```
-HTB/
+/
 ├── Imdb_sentiment_analysis.ipynb  # Main notebook with complete pipeline
 ├── finalReviews.csv               # Dataset
 ├── sentiment_model.keras          # Saved trained model
 ├── README.md                      # This file
-├── classification.ipynb           # Additional classification experiments
-├── hack.ipynb                     # Other experiments
-├── linear_regression.ipynb        # Linear regression examples
-├── simple_digit_recognizer.ipynb  # Digit recognition project
-└── future.txt                     # Project notes
-```
 
 ## 🔧 Hyperparameter Optimization
 
@@ -307,11 +301,8 @@ Contributions are welcome! Please follow these steps:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the MIT(LICENSE) file for details.
 
-## 👥 Authors
-
-- **Your Name** - *Initial work*
 
 ## 🙏 Acknowledgments
 
@@ -323,7 +314,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or feedback, please open an issue or contact:
 - Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@Dulith-Kavinda](https://github.com/Dulith-Kavinda)
 
 ---
 
